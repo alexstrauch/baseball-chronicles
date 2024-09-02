@@ -85,7 +85,7 @@ main {
     padding: 0;
 }
 
-h1, h2 {
+h2 {
   text-align: center;
 }
 
@@ -136,13 +136,8 @@ footer {
 
 /* Additional styles for specific pages */
 
-/* Homepage */
-.intro {
+/* Homepage, early days and modern era */
+.intro, .history, .key-figures, .overview, .milestones {
     padding: 1rem;
   }
-  
-/* Early days */
-.history
-  {
-    padding: 1rem;
-}
+
