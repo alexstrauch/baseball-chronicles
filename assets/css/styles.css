@@ -24,3 +24,56 @@ body {
     justify-content: space-between;
     align-items: center;
   }
+
+  .logo {
+    color: #fff;
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  
+  .menu-toggle {
+    display: none;
+  }
+  
+  .menu-icon {
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 30px;
+    height: 21px;
+  }
+  
+  .menu-icon span {
+    background-color: #fff;
+    height: 3px;
+    width: 100%;
+  }
+  
+  nav {
+    position: absolute;
+    top: 70px;
+    left: -100%;
+    background-color: #0e3386;
+    width: 100%;
+    transition: left 0.3s ease;
+  }
+  
+  nav ul {
+    list-style-type: none;
+  }
+  
+  nav ul li {
+    border-bottom: 1px solid #fff;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    display: block;
+    padding: 1rem;
+  }
+  
+  .menu-toggle:checked ~ nav {
+    left: 0;
+  }
