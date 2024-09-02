@@ -141,3 +141,24 @@ footer {
     padding: 1rem;
   }
 
+  .milestones {
+    max-width: 600px;
+    margin: 0 auto 2rem;
+    padding: 0 1rem;
+    text-align: center;
+  }
+  
+  .milestones h2 {
+    margin-bottom: 1rem;
+  }
+  
+  .milestones ul {
+    list-style-type: none;
+    padding-left: 0;
+    display: inline-block;
+    text-align: left;
+  }
+  
+  .milestones li {
+    margin-bottom: 0.5rem;
+  }
