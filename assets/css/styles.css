@@ -189,3 +189,13 @@ footer {
     border: 1px solid #ccc;
     border-radius: 4px;
 }
+
+button[type="submit"] {
+    background-color: #0e3386;
+    color: white;
+    border: none;
+    padding: 0.75rem 1.5rem;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100%;
+  }
