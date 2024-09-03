@@ -140,13 +140,6 @@ footer {
     padding: 0 1rem;
 }
 
-/* .milestones {
-    max-width: 800px;
-    margin: 0 auto 2rem;
-    padding: 0 1rem;
-    text-align: center;
-} */
-  
 .milestones h2 {
     margin-bottom: 1rem;
 }
@@ -248,5 +241,5 @@ nav ul li {
         max-width: 1000px;
         margin: 0 auto;
         padding: 0 2 rem;
-    }
+}
 }
