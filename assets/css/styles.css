@@ -42,14 +42,16 @@ header {
     flex-direction: column;
     justify-content: space-between;
     width: 30px;
-    height: 21px;
+    height: 3px;
+    color: #fff;
+    margin-bottom: 1rem;
 }
   
-.menu-icon span {
+/* .menu-icon span {
     background-color: #fff;
     height: 3px;
     width: 100%;
-}
+} */
   
 nav {
     position: absolute;
