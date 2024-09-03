@@ -70,11 +70,12 @@ nav ul li a {
     color: #fff;
     text-decoration: none;
     display: block;
-    padding: 1rem;
+    padding: 0.2rem 1rem;
 }
 
 .active {
     border-bottom: 1px solid #fff;
+
 }
   
 .menu-toggle:checked ~ nav {
