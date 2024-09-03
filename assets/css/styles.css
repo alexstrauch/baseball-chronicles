@@ -140,6 +140,14 @@ footer {
     padding: 0 1rem;
 }
 
+.players ul {
+    list-style-type: none;
+}
+
+.players ul li {
+    padding: 0.5rem 0;
+}
+
 .milestones h2 {
     margin-bottom: 1rem;
 }
