@@ -154,10 +154,10 @@ footer {
 /* Additional styles for specific pages */
 
 /* Homepage, early days and modern era */
-.intro, .history, .overview, .milestones {
+.intro, .history, .overview, .milestones, .newsletter-signup {
     max-width: 800px;
     margin: 0 auto;
-    padding: 0 1rem;
+    padding: 1rem 1rem;
 }
 
 .players ul {
@@ -274,7 +274,7 @@ nav ul li {
 /* Media queries for laptops and desktops (1024px and up) */
 @media screen and (min-width: 1024px) {
 .footer-content {
-    max-width: 1000px;
+    max-width: 768px;
     margin: 0 auto;
     padding: 0 2 rem;
 }
