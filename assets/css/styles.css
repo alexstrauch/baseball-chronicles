@@ -22,7 +22,7 @@ header {
     padding: 1rem;
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: baseline;
     position: fixed;
     z-index: 99;
     box-shadow: 0 2px 2px #262323;
@@ -46,11 +46,12 @@ header {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    /* align-items: baseline; */
     width: 30px;
     height: 3px;
     color: #fff;
-    margin-bottom: 1rem;
-    font-size: 2rem;
+    /* margin-bottom: 1rem; */
+    font-size: 1.5rem;
 }
   
 /* .menu-icon span {
