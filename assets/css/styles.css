@@ -138,7 +138,9 @@ footer {
 
 /* Homepage, early days and modern era */
 .intro, .history, .overview, .milestones {
-    padding: 1rem;
+    width: 50%;
+    margin: 0 auto;
+    padding: 0;
 }
 
 .milestones {
