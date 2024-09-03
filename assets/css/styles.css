@@ -135,17 +135,17 @@ footer {
 
 /* Homepage, early days and modern era */
 .intro, .history, .overview, .milestones {
-    width: 50%;
+    max-width: 800px;
     margin: 0 auto;
-    padding: 0;
+    padding: 0 1rem;
 }
 
-.milestones {
-    max-width: 600px;
+/* .milestones {
+    max-width: 800px;
     margin: 0 auto 2rem;
     padding: 0 1rem;
     text-align: center;
-}
+} */
   
 .milestones h2 {
     margin-bottom: 1rem;
