@@ -33,6 +33,7 @@ header {
     color: #fff;
     font-size: 1.2rem;
     font-weight: bold;
+    text-decoration: none;
 }
 
 /* Navigation menu */
@@ -265,11 +266,12 @@ nav ul li {
 
 /* Media queries for laptops and desktops (1024px and up) */
 @media screen and (min-width: 1024px) {
-    .footer-content {
-        max-width: 1000px;
-        margin: 0 auto;
-        padding: 0 2 rem;
+.footer-content {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0 2 rem;
 }
+
 /* Hero section */
 .hero-section {
     width: 100%;
