@@ -30,7 +30,8 @@ header {
     font-size: 1.2rem;
     font-weight: bold;
 }
-  
+
+/* Navigation menu */
 .menu-toggle {
     display: none;
 }
@@ -202,9 +203,10 @@ button[type="submit"]:hover {
     background-color: #0a2561;
 }
 
-/* Media queries for larger screens */
-@media (min-width: 768px) {
-    .menu-icon {
+/* Media queries for tablets and larger (768px and up) */
+@media screen and (min-width: 768px) {
+/* Navigation menu */
+.menu-icon {
       display: none;
 }
   
@@ -222,4 +224,29 @@ nav ul li {
     border-bottom: none;
     margin-left: 1rem;
 }
+
+/* Footer */
+.footer-content {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.social-links {
+    margin-bottom: 0;
+}
+
+.footer-info {
+    text-align: justify;
+}
+
+}
+
+/* Media queries for laptops and desktops (1024px and up) */
+@media screen and (min-width: 1024px) {
+    .footer-content {
+        max-width: 1000px;
+        margin: 0 auto;
+        padding: 0 2 rem;
+    }
 }
