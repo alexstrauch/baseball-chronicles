@@ -9,13 +9,16 @@
 
 ## Table of contents
 
-1.
+1. Introduction
+- Project goals
 2. Features
-3.
-4. Technology used
-5. Testing
-6. Bugs
-7. Deployment
-8. Credits
-9. Resources
-10. Acknowledgements
+3. Future features
+4. Languages used
+5. Technologies used
+6. Testing
+7. Bugs
+8. Deployment
+9. Credits
+10. Resources
+11. Acknowledgements
+
