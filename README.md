@@ -5,6 +5,8 @@
 
 (Developer: Alexander Strauch)
 
+## **[Live site](https://alexstrauch.github.io/baseball-chronicles/index.html)**
+
 ## Table of contents
 
 1.
