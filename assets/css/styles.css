@@ -222,7 +222,6 @@ button[type="submit"] {
     cursor: pointer;
     width: 12rem;
     font-size: 1rem;
-    align-self: center;
 }
 
 button[type="submit"]:hover {
