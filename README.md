@@ -234,3 +234,50 @@ The website contains 5 pages with 9 features in total.
 
 [Back to table of contents](#table-of-contents)
 
+## Future features
+
+- an up-to-date database with all the statistics from the MLB, the NPB and the KBO
+
+- a tool to compare player achievements from the past and the present
+
+- a tool to compare team statistics from the past and the present
+
+[Back to table of contents](#table-of-contents)
+
+## Languages used
+
+- HTML
+
+- CSS
+
+[Back to table of contents](#table-of-contents)
+
+## Technologies used
+
+- GitHub for the repository
+
+- Gitpod (IDE)
+
+- Chrome Dev Tools
+
+- Balsamiq for the wireframes
+
+- For the baseball favicon: https://gauger.io/fonticon/
+
+- Font Awesome for the burger menu and the social media logos
+
+- Google Fonts for the _Roboto_ font
+
+- Convertio to compress the hero image
+
+- Adobe color
+
+- WebAIM for accessibility requirements
+
+- W3C for HTML code validation
+
+- W3C for CSS code validation
+
+[Back to table of contents](#table-of-contents)
+
+
