@@ -195,7 +195,7 @@ The website contains 5 pages with 9 features in total.
 </details>
 <details>
     <summary>Famous former & famous active players</summary> 
-    Placed underneath "About baseball"<br>
+    Placed underneath "About baseball".<br>
     The "Famous former players" h2 element is followed by an unordered list containing 4 players with a brief explanation of their accomplishments. Following that is another h2 element containing the "Famous active players", again followed by an unordered list containing 4 players with a brief summary of their achievements.<br>
     They are responsive for all devices, the list items shrink in width and adjust in height when viewed on a mobile device or tablet.<br>
     <img src="assets/docs/former-active-players.png">
