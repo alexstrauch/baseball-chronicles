@@ -20,7 +20,7 @@
 3. [Design](#design)
     - [Design choices](#design-choice)
     - [Fonts](#fonts)
-    - [Color](#color)
+    - [Colors](#colors)
     - [Layout](#layout)
     - [Wireframes](#wireframes)
 4. [Features](#features)
@@ -111,4 +111,19 @@
 
 ### Design choices
 
-Since I'm a big baseball fan (Go Cubs, go!) I wanted to build a site 
+Since I'm a big baseball fan (Go Cubs, go!) I wanted to build a site which showcases the history of baseball in an easy to use way. The logo contains the name of the website. It has a minimalistic & clean interface with focus on the content. Every menu link clearly indicates what content the user can expect to navigate to. I used plenty of white space which draws the user to the key elements.
+
+### Fonts
+
+Fonts were used through import from https://fonts.google.com/. The chosen font for the body was _Roboto_ for its clarity and ease of reading. _Arial, sans-serif_ was chosen as the fallback font for all elements.
+
+### Colors
+
+I chose the color scheme of white for the font and blue for the background in the menu and the footer because it best represents my favorite team, the Chicago Cubs.
+
+![Colors](assets/docs/menu-colors-fg-bg.png)
+
+For the font-color used in the body I chose a classic dark charcoal with a classic white background.
+
+![Colors](assets/docs/font-colors-fg-bg.png)
+
