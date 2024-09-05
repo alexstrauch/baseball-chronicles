@@ -24,8 +24,6 @@
     - [Layout](#layout)
     - [Wireframes](#wireframes)
 4. [Features](#features)
-    - [Core functionalities](#core-function)
-    - [Screenshots](#screenshots)
 5. [Future features](#future-features)
 6. [Languages used](#languagues)
 7. [Technologies used](#technologies)
@@ -182,63 +180,43 @@ The website contains 5 pages with 9 features in total.
     <img src="assets/docs/footer.png">
 </details>
 <details>   
-    <summary>Stadium image</summary>     
+    <summary>Hero image</summary>     
     Placed on the top of all pages<br>
-    Displays "Welcome!" h2 on the top center with a plate image in the background welcoming the user to the website and the restaurant.<br> 
-    It is responsive, the background image is resized and font-size reduced for smaller screens.<br>
-    <img src="docs/features/feature-plate-image.jpg">
+    Shows Wrigley Field, the stadium of the Chicago Cubs, on a bright sunny day.<br> 
+    It is responsive, the background image is resized for smaller screens.<br>
+    <img src="assets/docs/hero-image.png">
 </details>
 <details>
-    <summary>Announcements</summary>
-    Included on the Home page in the center of its section, under the plate image feature.<br> 
-    Consists of two notifications displayed in the fieldsets for the user: the first one with its legend "!" an important urgent notice regarding a temporary               closure, and the other one is a special offer of the restaurant.<br> 
-    It is responsive, text content for both notifications reduces its width and increases the height.<br>
-    <img src="docs/features/feature-announcements.jpg">
+    <summary>About baseball</summary>
+    Placed underneath the hero image.<br>
+    A h1 element followed by 3 short paragraphs explaining the very basic rules of the game.<br>
+    It is responsive, the paragraphs shrink in width and adjust in height when viewed on a mobile device or tablet.<br>
+    <img src="assets/docs/about-baseball.png">
 </details>
 <details>
-    <summary>Opening hours</summary> 
-    Included on the Home page in the center of its section, under the announcements feature.<br>
-    Dispalys opening hours during weekdays and weekends.<br>
-    It is responsive, reducing its font-size, weekend opening hours information slides under the weekdays opening hours for smaller screens.<br>
-    <img src="docs/features/feature-opening-hours.jpg">
+    <summary>Famous former & famous active players</summary> 
+    Placed underneath "About baseball"<br>
+    The "Famous former players" h2 element is followed by an unordered list containing 4 players with a brief explanation of their accomplishments. Following that is another h2 element containing the "Famous active players", again followed by an unordered list containing 4 players with a brief summary of their achievements.<br>
+    They are responsive for all devices, the list items shrink in width and adjust in height when viewed on a mobile device or tablet.<br>
+    <img src="assets/docs/former-active-players.png">
 </details>
 <details>
-    <summary>Restaurant menu header and menu images</summary>
-    Positioned on the top of the menu page.<br>
-    Displays MENU h2 and three menu images presenting food and drink.<br>
-    They are reponsive, the images wrap reverse for medium size screens so the third image from the left displayes on top of the two other images. For smaller screens the images are positioned from the top to the bottom. <br>
+    <summary>The early days of baseball</summary>
+    <br>
     <img src="docs/features/feature-restaurant-menu-header-and-menu-images.jpg">
 </details>
 <details>    
-    <summary>Food Menu and Drinks Menu</summary>
-    Can be found on the menu page below the restaurant menu header and menu images feature.<br> 
-    Lists the food and drinks offer and the prices of the restaurant.<br>
-    They are responsive, Drinks Menu slides under Food Menu for smaller screens.<br>
+    <summary>The modern era of baseball</summary>
+    <br> 
     <img src="docs/features/feature-food-menu-and-drinks-menu.jpg">
 </details>
 <details>
-    <summary>Our Place</summary> 
-    First section of the About us page, appears under the logo and navigation bar feature.<br>
-    Consists of a text describing what is the place and an image of restaurant's interior.<br>
-    They are responsive, the text content reduces its width and increases the height, and the image slides under the text for smaller screens.<br>
+    <summary>Key milestones</summary> 
+    <br>
     <img src="docs/features/feature-our-place.jpg">
 </details>
-<details> 
-    <summary>Our Chef</summary>
-    Second section of the About us page, appears under the our place feature.<br>
-    Consists of a text describing who is the chef and his image.<br>
-    They are responsive, the text content reduces its width and increases the height, and the image slides above the text for smaller screens.<br>
-    <img src="docs/features/feature-our-chef.jpg">
-</details>
-<details>  
-    <summary>Our Guests</summary>
-    Third section of the About us page, appears under the our chef feature.<br>
-    Consists of a text with other guests reviews of the restaurant. <br>
-    It is responsive, the text content reduces its width and increases the height.<br>
-    <img src="docs/features/feature-our-guests.jpg">
-</details>
 <details>
-    <summary>Contact form</summary>
+    <summary>Newsletter</summary>
     Placed on left side in the center of the Contact page.<br>
     Includes a form with name, email, and phone inputs, a textarea, and a submit button for the user.<br>
     The form is responsive, adjusting the size to the viewport and moves above the map for medium size screens.<br>
