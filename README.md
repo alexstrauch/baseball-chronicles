@@ -127,3 +127,32 @@ For the font-color used in the body I chose a classic dark charcoal with a class
 
 ![Colors](assets/docs/font-colors-fg-bg.png)
 
+### Layout
+
+I wanted to implement an intuitive design with a straightforward navigation. Therefore the website logo was placed in the top left corner and the navigation links in the top right corner. The header containing the logo and the menu was fixed to the top so that when a user scrolls the site he can easily access the menu to navigate to another page. The footer at the bottom contains the links to the social media accounts (each opens in a separate tab) on the left side. It also displays the website name and my name with the clarification of trademark, logo and brand names and their respective owners. The website contains 5 pages:
+
+- Home with a background image of Wrigley Field underneath the header, an "About baseball" h1 element followed by 3 short paragraphs explaining the very basic rules of the game. After that is the "Famous former players" h2 element with the unordered list following containing 4 players with a brief explanation of their accomplishments. Following that is another h2 element containing the "Famous active players", again followed by an unordered list containing 4 players with a brief summary of their achievements.
+
+- Early days with the background image of Wrigley Field underneath the header, a h1 element of "The early days of baseball" followed by 3 paragraphs about how the baseball rules were shaped in the early 19th century.
+
+- Modern era with the background image of Wrigley Field underneath the header, a h1 element of "The modern era of baseball" followed by 8 paragraphs about how the game and its rules evolved starting from the beginning of the 20th century up till today.
+
+- Milestones with the background image of Wrigley Field underneath the header, a h1 element of the "Key milestones" followed by an unordered list with 15 list items, each containing a significant historical moment in baseball history.
+
+- Newsletter with the background image of Wrigley Field underneath the header, a h1 element of "Sign up for our newsletter" followed by an input form for the first name, last name and the email address. The user can submit their information by clicking on the "Sign up" submit button underneath.
+
+### Wireframes
+
+#### Homepage desktop wireframe
+
+![Desktop wireframe](assets/docs/wireframe-desktop.png)
+
+#### Homepage tablet wireframe
+
+![Tablet wireframe](assets/docs/wireframe-tablet.png)
+
+#### Homepage mobile wireframe
+
+![iPhone wireframe](assets/docs/wireframe-iPhone.png)
+
+[Back to table of contents](#table-of-contents)
