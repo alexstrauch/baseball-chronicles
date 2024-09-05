@@ -156,3 +156,91 @@ I wanted to implement an intuitive design with a straightforward navigation. The
 ![iPhone wireframe](assets/docs/wireframe-iPhone.png)
 
 [Back to table of contents](#table-of-contents)
+
+## Features
+
+The website contains 5 pages with 9 features in total.
+
+
+<details>
+    <summary>Logo and navigation</summary>  
+    It is included on all 5 pages.<br> 
+    The logo displays the name of the website & is a clickable link to the homepage which is just best practices.<br> 
+    On the right there are five links to each of the pages: Home, Early Days, Modern era, Milestones and Newsletter so the user can easily navigate through.<br> 
+    The current page the user is browsing at the moment is highlighted.<br>
+    The logo and the menu are responsive, the page links become a burger menu when viewed on a mobile device.
+    <img src="assets/docs/logo-navigation.png">
+</details> 
+<details>
+    <summary>Footer</summary> 
+    Appears on all 5 pages.<br>
+    Divided by 2 divs with their class: social-links and footer-info<br>
+    On the left are the social media links which open in a separate tab.<br>
+    On the right is the website name together with my name and the information about ownership rights for trademark, logo and brand names.<br>
+    It is responsive for all screen sizes, the social media links align over the website name and the accompanying information; both are horizontally centered.
+    <br>
+    <img src="assets/docs/footer.png">
+</details>
+<details>   
+    <summary>Stadium image</summary>     
+    Placed on the top of all pages<br>
+    Displays "Welcome!" h2 on the top center with a plate image in the background welcoming the user to the website and the restaurant.<br> 
+    It is responsive, the background image is resized and font-size reduced for smaller screens.<br>
+    <img src="docs/features/feature-plate-image.jpg">
+</details>
+<details>
+    <summary>Announcements</summary>
+    Included on the Home page in the center of its section, under the plate image feature.<br> 
+    Consists of two notifications displayed in the fieldsets for the user: the first one with its legend "!" an important urgent notice regarding a temporary               closure, and the other one is a special offer of the restaurant.<br> 
+    It is responsive, text content for both notifications reduces its width and increases the height.<br>
+    <img src="docs/features/feature-announcements.jpg">
+</details>
+<details>
+    <summary>Opening hours</summary> 
+    Included on the Home page in the center of its section, under the announcements feature.<br>
+    Dispalys opening hours during weekdays and weekends.<br>
+    It is responsive, reducing its font-size, weekend opening hours information slides under the weekdays opening hours for smaller screens.<br>
+    <img src="docs/features/feature-opening-hours.jpg">
+</details>
+<details>
+    <summary>Restaurant menu header and menu images</summary>
+    Positioned on the top of the menu page.<br>
+    Displays MENU h2 and three menu images presenting food and drink.<br>
+    They are reponsive, the images wrap reverse for medium size screens so the third image from the left displayes on top of the two other images. For smaller screens the images are positioned from the top to the bottom. <br>
+    <img src="docs/features/feature-restaurant-menu-header-and-menu-images.jpg">
+</details>
+<details>    
+    <summary>Food Menu and Drinks Menu</summary>
+    Can be found on the menu page below the restaurant menu header and menu images feature.<br> 
+    Lists the food and drinks offer and the prices of the restaurant.<br>
+    They are responsive, Drinks Menu slides under Food Menu for smaller screens.<br>
+    <img src="docs/features/feature-food-menu-and-drinks-menu.jpg">
+</details>
+<details>
+    <summary>Our Place</summary> 
+    First section of the About us page, appears under the logo and navigation bar feature.<br>
+    Consists of a text describing what is the place and an image of restaurant's interior.<br>
+    They are responsive, the text content reduces its width and increases the height, and the image slides under the text for smaller screens.<br>
+    <img src="docs/features/feature-our-place.jpg">
+</details>
+<details> 
+    <summary>Our Chef</summary>
+    Second section of the About us page, appears under the our place feature.<br>
+    Consists of a text describing who is the chef and his image.<br>
+    They are responsive, the text content reduces its width and increases the height, and the image slides above the text for smaller screens.<br>
+    <img src="docs/features/feature-our-chef.jpg">
+</details>
+<details>  
+    <summary>Our Guests</summary>
+    Third section of the About us page, appears under the our chef feature.<br>
+    Consists of a text with other guests reviews of the restaurant. <br>
+    It is responsive, the text content reduces its width and increases the height.<br>
+    <img src="docs/features/feature-our-guests.jpg">
+</details>
+<details>
+    <summary>Contact form</summary>
+    Placed on left side in the center of the Contact page.<br>
+    Includes a form with name, email, and phone inputs, a textarea, and a submit button for the user.<br>
+    The form is responsive, adjusting the size to the viewport and moves above the map for medium size screens.<br>
+    <img src="docs/features/feature-contact-form.jpg">
+</details>
