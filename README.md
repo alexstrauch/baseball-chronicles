@@ -131,7 +131,7 @@ I wanted to implement an intuitive design with a straightforward navigation. The
 
 - Home with a background image of Wrigley Field underneath the header, an "About baseball" h1 element followed by 3 short paragraphs explaining the very basic rules of the game. After that is the "Famous former players" h2 element with the unordered list following containing 4 players with a brief explanation of their accomplishments. Following that is another h2 element containing the "Famous active players", again followed by an unordered list containing 4 players with a brief summary of their achievements.
 
-- Early days with the background image of Wrigley Field underneath the header, a h1 element of "The early days of baseball" followed by 3 paragraphs about how the baseball rules were shaped in the early 19th century.
+- Early days with the background image of Wrigley Field underneath the header, a h1 element of "The early days of baseball" followed by 4 paragraphs about how the baseball rules were shaped in the early 19th century.
 
 - Modern era with the background image of Wrigley Field underneath the header, a h1 element of "The modern era of baseball" followed by 8 paragraphs about how the game and its rules evolved starting from the beginning of the 20th century up till today.
 
@@ -202,23 +202,35 @@ The website contains 5 pages with 9 features in total.
 </details>
 <details>
     <summary>The early days of baseball</summary>
-    <br>
-    <img src="docs/features/feature-restaurant-menu-header-and-menu-images.jpg">
+    Placed underneath the hero image.<br>
+    A h1 element of "The early days of baseball" followed by 4 paragraphs about how the baseball rules were shaped in the early 19th century.<br>
+    The h1 element and the paragraphs are responsive and shrink in width and adjust in height when viewed on a mobile device or tablet.<br>
+    <img src="assets/docs/early-days.png">
 </details>
 <details>    
     <summary>The modern era of baseball</summary>
-    <br> 
-    <img src="docs/features/feature-food-menu-and-drinks-menu.jpg">
+    A h1 element of "The modern era of baseball" followed by 8 paragraphs about how the game and its rules evolved starting from the beginning of the 20th century up till today.<br>
+    The h1 element and the paragraphs are responsive and shrink in width and adjust in height when viewed on a mobile device or tablet.<br>
+    Screenshot couldn't display all paragraphs because of viewport height.<br>
+    <img src="assets/docs/modern-era.png">
 </details>
 <details>
     <summary>Key milestones</summary> 
-    <br>
-    <img src="docs/features/feature-our-place.jpg">
+    Placed underneath the hero image.<br>
+    A h1 element of the "Key milestones" followed by an unordered list with 15 list items, each containing a significant historical moment in baseball history.<br>
+    They are responsive for all devices, the list items shrink in width and adjust in height when viewed on a mobile device or tablet.<br>
+    <img src="assets/docs/key-milestones.png">
 </details>
 <details>
     <summary>Newsletter</summary>
-    Placed on left side in the center of the Contact page.<br>
-    Includes a form with name, email, and phone inputs, a textarea, and a submit button for the user.<br>
-    The form is responsive, adjusting the size to the viewport and moves above the map for medium size screens.<br>
-    <img src="docs/features/feature-contact-form.jpg">
+    Placed underneath the hero image.<br>
+    A h1 element of "Sign up for our newsletter" followed by an input form for the first name, last name and the email address.<br>
+    The user can submit their information by clicking on the "Sign up" submit button underneath.<br>
+    When the user hovers above the sign up button, the colors invert and prompt the user to take action and click the button.<br>
+    The form is responsive, sliding the text of the h1 element in a second row for smaller devices.<br>
+    <img src="assets/docs/signup-normal.png">
+    <img src="assets/docs/signup-hover.png">
 </details>
+
+[Back to table of contents](#table-of-contents)
+
