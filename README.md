@@ -18,7 +18,7 @@
     - [User expectations](#user-expectations)
     - [User stories](#user-stories)
 3. [Design](#design)
-    - [Design choices](#design-choice)
+    - [Design choices](#design-choices)
     - [Fonts](#fonts)
     - [Colors](#colors)
     - [Layout](#layout)
