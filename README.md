@@ -106,3 +106,9 @@
 - As the site operator I want to continuously improve the platform
 
 [Back to table of contents](#table-of-contents)
+
+## Design
+
+### Design choices
+
+Since I'm a big baseball fan (Go Cubs, go!) I wanted to build a site 
