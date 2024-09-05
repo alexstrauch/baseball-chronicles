@@ -75,6 +75,7 @@ nav ul li a {
     padding: 0.2rem 1rem;
 }
 
+/* Highlights active page */
 .active {
     border-bottom: 1px solid #fff;
 }
@@ -224,6 +225,16 @@ button[type="submit"]:hover {
     background-color: #ffffff;
     color: #0e3386;
     border-color: #0e3386;
+}
+
+/* Media query for tablets and smaller devices (767px and down) */
+@media screen and (max-width: 767px) {
+/* Highlights active page */
+.active {
+    color:#0e3386;
+    background-color: #fff;
+}
+
 }
 
 /* Media queries for tablets and larger (768px and up) */
