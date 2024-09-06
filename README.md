@@ -438,6 +438,14 @@ https://github.com/Alan-Bushell/belfast-auto-repairs/blob/main/README.md <br>
 
 ## Resources
 
+- [A guide to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) Great visuals with a downloadable cheat sheet, written by Chris Coyier
+
+- [Learn flexbox the easy way](https://www.youtube.com/watch?v=u044iM9xsWU&t=1s) YouTube video by Kevin Powell
+
+- [Flexbox is more complicated than you thought](https://www.youtube.com/watch?v=fm3dSg4cxRI) YouTube video by Kevin Powell
+
+
+
 [Back to table of contents](#table-of-contents)
 
 ## Acknowledgements
