@@ -444,7 +444,11 @@ https://github.com/Alan-Bushell/belfast-auto-repairs/blob/main/README.md <br>
 
 - [Flexbox is more complicated than you thought](https://www.youtube.com/watch?v=fm3dSg4cxRI) YouTube video by Kevin Powell
 
+- https://entitycode.com/ for the &copy; character in the footer section
 
+- Googled for: aria-label div hero image
+
+- Chrome Dev Tools helped a lot to figure out how things work by breaking things apart and playing with them
 
 [Back to table of contents](#table-of-contents)
 
