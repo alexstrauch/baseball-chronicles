@@ -325,5 +325,7 @@ I googled if I could use the aria-label on the div (contains the background-imag
 
 <details>
 <summary>style.css (Click me)</summary>
-<img src="">
+<img src="assets/docs/css-validation.png">
 </details>
+
+[Back to table of contents](#table-of-contents)
