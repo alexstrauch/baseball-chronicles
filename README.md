@@ -341,7 +341,6 @@ I googled if I could use the aria-label on the div (contains the background-imag
 </details>
 
 <details>
-
 <summary>modern.html (Click me)</summary>
 <img src="assets/docs/modern-performance.png">
 </details>
@@ -361,5 +360,39 @@ I googled if I could use the aria-label on the div (contains the background-imag
 <img src="assets/docs/404-performance.png">
 </details>
 
+### Accessibility
+
+Accessibility was tested using WAVE - Web Accessibility Evaluation Tool.<br>
+The pages have no errors.
+
+<details>
+<summary>index.html (Click me)</summary>
+<img src="assets/docs/index-accessibility.png">
+</details>
+
+<details>
+<summary>early.html (Click me)</summary>
+<img src="assets/docs/early-accessibility.png">
+</details>
+
+<details>
+<summary>modern.html (Click me)</summary>
+<img src="assets/docs/modern-accessibility.png">
+</details>
+
+<details>
+<summary>milestones.html (Click me)</summary>
+<img src="assets/docs/milestones-accessibility.png">
+</details>
+
+<details>
+<summary>newsletter.html (Click me)</summary>
+<img src="assets/docs/newsletter-accessibility.png">
+</details>
+
+<details>
+<summary>404.html (Click me)</summary>
+<img src="assets/docs/404-accessibility.png">
+</details>
 
 [Back to table of contents](#table-of-contents)
