@@ -287,9 +287,17 @@ nav ul li {
 /* Media queries for laptops and desktops (1024px and up) */
 @media screen and (min-width: 1024px) {
 .footer-content {
-    max-width: 768px;
+    max-width: 800px;
     margin: 0 auto;
-    padding: 0 2 rem;
+    padding: 0 2rem;
+}
+
+.social-links {
+    margin-right: 0.2rem;
+}
+
+.footer-info {
+    margin-left: 0.2rem;
 }
 
 /* Hero section */
