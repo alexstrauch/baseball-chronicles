@@ -398,6 +398,12 @@ The pages have no errors.
 
 ## Bugs
 
+| Bug  | Fix  |
+| ------- | ------- |
+| Hero image in newsletter.html doesn't cover the whole screen width | Add hero-section class to media queries for tablets, to media queries for desktops and adjust width and height in those|
+| Header isn't fixed to the top| Use ``` header {position: fixed;}```| 
+| Header now overlaps the hero image | Pushing the content down with ``` main {margin-top: 60px;}``` | 
+
 [Back to table of contents](#table-of-contents)
 
 ## Deployment
