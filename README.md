@@ -35,8 +35,7 @@
 9. [Bugs](#bugs)
 10. [Deployment](#deployment)
 11. [Credits](#credits)
-12. [Resources](#resources)
-13. [Acknowledgements](#acknowledgements)
+12. [Acknowledgements](#acknowledgements)
 
 ## Introduction
 
@@ -394,5 +393,43 @@ The pages have no errors.
 <summary>404.html (Click me)</summary>
 <img src="assets/docs/404-accessibility.png">
 </details>
+
+[Back to table of contents](#table-of-contents)
+
+## Bugs
+
+[Back to table of contents](#table-of-contents)
+
+## Deployment
+
+[Back to table of contents](#table-of-contents)
+
+## Credits
+
+### Media
+
+- Hero image: https://www.flickr.com/photos/cooperweb/4924741491/ <br>
+Photo by Keith Cooper, compressed with convertio
+
+- For the baseball favicon: https://gauger.io/fonticon/
+
+- Font Awesome for the burger menu and the social media logos
+
+### Code
+
+I was inspired for some sections of my Readme.md by these two Readme's:
+https://github.com/WojtekKamilowski/CI_PP1_CDVMR/blob/main/README.md <br>
+
+https://github.com/Alan-Bushell/belfast-auto-repairs/blob/main/README.md <br>
+
+[Back to table of contents](#table-of-contents)
+
+## Resources
+
+[Back to table of contents](#table-of-contents)
+
+## Acknowledgements
+
+I would like to thank my mentor Alan Bushell for his useful tips and keen insight.
 
 [Back to table of contents](#table-of-contents)
