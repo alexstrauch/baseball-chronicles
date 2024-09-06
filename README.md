@@ -280,4 +280,38 @@ The website contains 5 pages with 9 features in total.
 
 [Back to table of contents](#table-of-contents)
 
+## Testing
 
+### HTML validation
+
+<details>
+<summary>index.html</summary>
+<img src="">
+</details>
+
+<details>
+<summary>early.html</summary>
+<img src="">
+</details>
+
+<details>
+<summary>modern.html</summary>
+<img src="">
+</details>
+
+<details>
+<summary>milestones.html</summary>
+<img src="">
+</details>
+
+<details>
+<summary>newsletter.html</summary>
+<img src="">
+</details>
+
+### CSS validation
+
+<details>
+<summary>styles.css</summary>
+<img src="">
+</details>
