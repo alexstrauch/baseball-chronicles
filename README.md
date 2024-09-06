@@ -25,8 +25,8 @@
     - [Wireframes](#wireframes)
 4. [Features](#features)
 5. [Future features](#future-features)
-6. [Languages used](#languagues)
-7. [Technologies used](#technologies)
+6. [Languages](#languages)
+7. [Technologies](#technologies)
 8. [Testing](#testing)
     - [HTML validation](#html-validation)
     - [CSS validation](#css-validation)
@@ -244,7 +244,7 @@ The website contains 5 pages with 9 features in total.
 
 [Back to table of contents](#table-of-contents)
 
-## Languages used
+## Languages
 
 - HTML
 
@@ -252,7 +252,7 @@ The website contains 5 pages with 9 features in total.
 
 [Back to table of contents](#table-of-contents)
 
-## Technologies used
+## Technologies
 
 - GitHub for the repository
 
