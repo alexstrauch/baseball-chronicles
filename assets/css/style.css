@@ -286,6 +286,15 @@ nav ul li {
 
 /* Media queries for laptops and desktops (1024px and up) */
 @media screen and (min-width: 1024px) {
+/* Hero section */
+.hero-section {
+    width: 100%;
+    height: 400px;
+    overflow: hidden;
+    margin-top: 0;
+}
+
+/* Footer */
 .footer-content {
     max-width: 800px;
     margin: 0 auto;
@@ -298,14 +307,6 @@ nav ul li {
 
 .footer-info {
     margin-left: 0.2rem;
-}
-
-/* Hero section */
-.hero-section {
-    width: 100%;
-    height: 400px;
-    overflow: hidden;
-    margin-top: 0;
 }
 
 }
