@@ -28,6 +28,9 @@
 6. [Languages](#languages)
 7. [Technologies](#technologies)
 8. [Testing](#testing)
+    - [Link validation](#link-validation)
+    - [Form validation](#form-validation)
+    - [Responsiveness validation](#responsiveness-validation)
     - [HTML validation](#html-validation)
     - [CSS validation](#css-validation)
     - [Performance](#performance)
@@ -281,6 +284,31 @@ The website contains 5 pages with 9 features in total.
 
 ## Testing
 
+### Link validation
+
+| Test  | Result  |
+| ------| ------- |
+| Every link in the navigation menu leads to the correct page | :white_check_mark: |
+| The social media links each open in a new tab on their corresponding site | :white_check_mark: | 
+| When a user attempts to directly type a link in the search bar to browse the site and has a typo he is redirected to the 404 page |:white_check_mark:| 
+
+
+### Form validation
+
+| Test  | Result  |
+| ------| ------- |
+| Newsletter form submits when all 3 input fields are filled correctly | :white_check_mark: |
+| The user is prevented from submitting the form without the correct elements | :white_check_mark: | 
+| Error message pops up when user submits incorrect elements | :white_check_mark: | 
+
+### Responsiveness validation
+
+| Test  | Result  |
+| ------| ------- |
+| Home, early days, modern era, milestones and newsletter display correctly on screens smaller than 768px | :white_check_mark: |
+| Home, early days, modern era, milestones and newsletter display correctly on screens larger than 767px | :white_check_mark: | 
+| Home, early days, modern era, milestones and newsletter display correctly on screens larger than 1024px | :white_check_mark: | 
+
 ### HTML validation
 
 <details>
@@ -436,6 +464,7 @@ Photo by Keith Cooper, compressed with convertio
 ### Code
 
 I was inspired for some sections of my Readme.md by these two Readme's:
+
 https://github.com/WojtekKamilowski/CI_PP1_CDVMR/blob/main/README.md <br>
 
 https://github.com/Alan-Bushell/belfast-auto-repairs/blob/main/README.md <br>
