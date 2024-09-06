@@ -318,7 +318,7 @@ I googled if I could use the aria-label on the div (contains the background-imag
 <details>
 <summary>404.html (Click me)</summary>
 I googled if I could use the aria-label on the div (contains the background-image) and it said it would be useful if the content needed to be conveyed for accessibility reasons.
-<img src="assets/docs/milestones-validation.png">
+<img src="assets/docs/404-validation.png">
 </details>
 
 ### CSS validation
