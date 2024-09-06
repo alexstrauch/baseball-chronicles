@@ -328,4 +328,38 @@ I googled if I could use the aria-label on the div (contains the background-imag
 <img src="assets/docs/css-validation.png">
 </details>
 
+### Performance
+
+<details>
+<summary>index.html (Click me)</summary>
+<img src="assets/docs/index-performance.png">
+</details>
+
+<details>
+<summary>early.html (Click me)</summary>
+<img src="assets/docs/early-performance.png">
+</details>
+
+<details>
+
+<summary>modern.html (Click me)</summary>
+<img src="assets/docs/modern-performance.png">
+</details>
+
+<details>
+<summary>milestones.html (Click me)</summary>
+<img src="assets/docs/milestones-performance.png">
+</details>
+
+<details>
+<summary>newsletter.html (Click me)</summary>
+<img src="assets/docs/newsletter-performance.png">
+</details>
+
+<details>
+<summary>404.html (Click me)</summary>
+<img src="assets/docs/404-performance.png">
+</details>
+
+
 [Back to table of contents](#table-of-contents)
