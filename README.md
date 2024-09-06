@@ -285,33 +285,45 @@ The website contains 5 pages with 9 features in total.
 ### HTML validation
 
 <details>
-<summary>index.html</summary>
-<img src="">
+<summary>index.html (Click me)</summary>
+I googled if I could use the aria-label on the div (contains the background-image) and it said it would be useful if the content needed to be conveyed for accessibility reasons.
+<img src="assets/docs/index-validation.png">
 </details>
 
 <details>
-<summary>early.html</summary>
-<img src="">
+<summary>early.html (Click me)</summary>
+I googled if I could use the aria-label on the div (contains the background-image) and it said it would be useful if the content needed to be conveyed for accessibility reasons.
+<img src="assets/docs/early-validation.png">
 </details>
 
 <details>
-<summary>modern.html</summary>
-<img src="">
+
+<summary>modern.html (Click me)</summary>
+I googled if I could use the aria-label on the div (contains the background-image) and it said it would be useful if the content needed to be conveyed for accessibility reasons.
+<img src="assets/docs/modern-validation.png">
 </details>
 
 <details>
-<summary>milestones.html</summary>
-<img src="">
+<summary>milestones.html (Click me)</summary>
+I googled if I could use the aria-label on the div (contains the background-image) and it said it would be useful if the content needed to be conveyed for accessibility reasons.
+<img src="assets/docs/milestones-validation.png">
 </details>
 
 <details>
-<summary>newsletter.html</summary>
-<img src="">
+<summary>newsletter.html (Click me)</summary>
+I googled if I could use the aria-label on the div (contains the background-image) and it said it would be useful if the content needed to be conveyed for accessibility reasons.
+<img src="assets/docs/newsletter-validation.png">
+</details>
+
+<details>
+<summary>404.html (Click me)</summary>
+I googled if I could use the aria-label on the div (contains the background-image) and it said it would be useful if the content needed to be conveyed for accessibility reasons.
+<img src="assets/docs/milestones-validation.png">
 </details>
 
 ### CSS validation
 
 <details>
-<summary>styles.css</summary>
+<summary>style.css (Click me)</summary>
 <img src="">
 </details>
