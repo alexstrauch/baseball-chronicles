@@ -141,17 +141,17 @@ I wanted to implement an intuitive design with a straightforward navigation. The
 
 ### Wireframes
 
-#### Homepage desktop wireframe
+<details><summary>Homepage desktop wireframe (Click me)</summary>
+<img src="assets/docs/wireframe-desktop.png">
+</details>
 
-![Desktop wireframe](assets/docs/wireframe-desktop.png)
+<details><summary>Homepage tablet wireframe (Click me)</summary>
+<img src="assets/docs/wireframe-tablet.png">
+</details>
 
-#### Homepage tablet wireframe
-
-![Tablet wireframe](assets/docs/wireframe-tablet.png)
-
-#### Homepage mobile wireframe
-
-![iPhone wireframe](assets/docs/wireframe-iPhone.png)
+<details><summary>Homepage mobile wireframe (Click me)</summary>
+<img src="assets/docs/wireframe-iPhone.png">
+</details>
 
 [Back to table of contents](#table-of-contents)
 
@@ -161,7 +161,7 @@ The website contains 5 pages with 9 features in total.
 
 
 <details>
-    <summary>Logo and navigation</summary>  
+    <summary>Logo and navigation (Click me)</summary>  
     It is included on all 5 pages.<br> 
     The logo displays the name of the website & is a clickable link to the homepage which is just best practices.<br> 
     On the right there are five links to each of the pages: Home, Early Days, Modern era, Milestones and Newsletter so the user can easily navigate through.<br> 
@@ -170,7 +170,7 @@ The website contains 5 pages with 9 features in total.
     <img src="assets/docs/logo-navigation.png">
 </details> 
 <details>
-    <summary>Footer</summary> 
+    <summary>Footer (Click me)</summary> 
     Appears on all 5 pages.<br>
     Divided by 2 divs with their class: social-links and footer-info<br>
     On the left are the social media links which open in a separate tab.<br>
@@ -180,49 +180,49 @@ The website contains 5 pages with 9 features in total.
     <img src="assets/docs/footer.png">
 </details>
 <details>   
-    <summary>Hero image</summary>     
+    <summary>Hero image (Click me)</summary>     
     Placed on the top of all pages<br>
     Shows Wrigley Field, the stadium of the Chicago Cubs, on a bright sunny day.<br> 
     It is responsive, the background image is resized for smaller screens.<br>
     <img src="assets/docs/hero-image.png">
 </details>
 <details>
-    <summary>About baseball</summary>
+    <summary>About baseball (Click me)</summary>
     Placed underneath the hero image.<br>
     A h1 element followed by 3 short paragraphs explaining the very basic rules of the game.<br>
     It is responsive, the paragraphs shrink in width and adjust in height when viewed on a mobile device or tablet.<br>
     <img src="assets/docs/about-baseball.png">
 </details>
 <details>
-    <summary>Famous former & famous active players</summary> 
+    <summary>Famous former & famous active players (Click me)</summary> 
     Placed underneath "About baseball".<br>
     The "Famous former players" h2 element is followed by an unordered list containing 4 players with a brief explanation of their accomplishments. Following that is another h2 element containing the "Famous active players", again followed by an unordered list containing 4 players with a brief summary of their achievements.<br>
     They are responsive for all devices, the list items shrink in width and adjust in height when viewed on a mobile device or tablet.<br>
     <img src="assets/docs/former-active-players.png">
 </details>
 <details>
-    <summary>The early days of baseball</summary>
+    <summary>The early days of baseball (Click me)</summary>
     Placed underneath the hero image.<br>
     A h1 element of "The early days of baseball" followed by 4 paragraphs about how the baseball rules were shaped in the early 19th century.<br>
     The h1 element and the paragraphs are responsive and shrink in width and adjust in height when viewed on a mobile device or tablet.<br>
     <img src="assets/docs/early-days.png">
 </details>
 <details>    
-    <summary>The modern era of baseball</summary>
+    <summary>The modern era of baseball (Click me)</summary>
     A h1 element of "The modern era of baseball" followed by 8 paragraphs about how the game and its rules evolved starting from the beginning of the 20th century up till today.<br>
     The h1 element and the paragraphs are responsive and shrink in width and adjust in height when viewed on a mobile device or tablet.<br>
     Screenshot couldn't display all paragraphs because of viewport height.<br>
     <img src="assets/docs/modern-era.png">
 </details>
 <details>
-    <summary>Key milestones</summary> 
+    <summary>Key milestones (Click me)</summary> 
     Placed underneath the hero image.<br>
     A h1 element of the "Key milestones" followed by an unordered list with 15 list items, each containing a significant historical moment in baseball history.<br>
     They are responsive for all devices, the list items shrink in width and adjust in height when viewed on a mobile device or tablet.<br>
     <img src="assets/docs/key-milestones.png">
 </details>
 <details>
-    <summary>Newsletter</summary>
+    <summary>Newsletter (Click me)</summary>
     Placed underneath the hero image.<br>
     A h1 element of "Sign up for our newsletter" followed by an input form for the first name, last name and the email address.<br>
     The user can submit their information by clicking on the "Sign up" submit button underneath.<br>
